@@ -8,9 +8,9 @@ comandos hasta pequeños juegos.
 
 ## Stack Tecnológico y Herramientas
 
--   **Lenguajes:** Go, JavaScript, Python, SQL\
--   **Frameworks/Librerías:** Node.js, Express, FastAPI\
--   **Bases de datos:** MySQL, PostgreSQL, MongoDB\
+-   **Lenguajes:** Go, JavaScript, Python, SQL
+-   **Frameworks/Librerías:** Node.js, Express, FastAPI
+-   **Bases de datos:** MySQL, PostgreSQL, MongoDB
 -   **Herramientas y Tecnologías:** Git, GitHub, Docker, Bash, Unix,
     AWS, Postman...
 
